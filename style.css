@@ -1,0 +1,8 @@
+ body {
+            font-family: Arial, sans-serif;
+            background-image: linear-gradient(to bottom, #ffffff, #ffffff, #ffffff, #0960b3)
+        }
+        .center-and-space-content {
+            text-align: center; 
+            padding: 10px; 
+        }
